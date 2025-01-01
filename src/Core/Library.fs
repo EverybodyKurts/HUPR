@@ -1,4 +1,4 @@
-﻿namespace DUPR.Core
+﻿namespace HUPR.Core
 
 open System
 
